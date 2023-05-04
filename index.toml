@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e259934dcbb1f7a3935e778a4614abf486b81d0da7ba4f11585d3784498b5c4"
+hash = "35376c39a7cb3dba90ba6263b0f5d94fe3cc5112650dd204d157ab4baf19152a"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
+hash = "6592715d9a03bbafbfa9c4688f5ee436df29239d9b7808f1f964724568ec0bb9"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
+hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
@@ -169,3 +169,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
 metafile = true
+
+[[files]]
+file = "test.diff"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
