@@ -96,6 +96,11 @@ hash = "10a2491accd4c161f6757ad48dc3865a03807b1c254e3fd8740dc82c3603f680"
 metafile = true
 
 [[files]]
+file = "mods/let-me-play-iris.pw.toml"
+hash = "7b9c20085e3f3d706b3531e9a9005d51bb0770c6ef519913789dd6f08eb5b18d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/tabby.pw.toml"
+hash = "5881244ffb4698fc52da4cb843c2160063a835608fc1a06df0536207c6fe3b35"
 metafile = true
 
 [[files]]
