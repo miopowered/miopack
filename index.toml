@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/tabby.pw.toml"
-hash = "5881244ffb4698fc52da4cb843c2160063a835608fc1a06df0536207c6fe3b35"
+hash = "adc8ff0503ab715449e9b7feeab1b6f910e022ae633f5f9383825b47c9fc249c"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
+hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
 metafile = true
 
 [[files]]

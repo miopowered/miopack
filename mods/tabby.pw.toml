@@ -1,13 +1,13 @@
 name = "Tabby"
-filename = "tabby-1.19.4-1.3.0.jar"
+filename = "tabby-1.19.4-1.3.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GTVNY7Yu/versions/kfQgR1Mz/tabby-1.19.4-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/GTVNY7Yu/versions/zGIBXE8Z/tabby-1.19.4-1.3.2.jar"
 hash-format = "sha1"
-hash = "2de5cc9ce977d695af77d0139f9397ed7c0e39c4"
+hash = "448e1c0f4d7719ab4b08b409727fafb12b7a6e20"
 
 [update]
 [update.modrinth]
 mod-id = "GTVNY7Yu"
-version = "kfQgR1Mz"
+version = "zGIBXE8Z"
