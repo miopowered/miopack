@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "35376c39a7cb3dba90ba6263b0f5d94fe3cc5112650dd204d157ab4baf19152a"
+hash = "6b76641118d0d86d838f5eb45f333d636e12e930598b857973e4b57b7a374e9b"
 metafile = true
 
 [[files]]
@@ -47,17 +47,27 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
+hash = "d6306703532abe9f949937ef94d994f33cca2533c40333e2bda2f6393e43dc66"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
+hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "a43c90eeb2b3942ff228c4c8ad0d137afb03892b7c8f37b95fdf1232cff06994"
+metafile = true
+
+[[files]]
+file = "mods/freelook.pw.toml"
+hash = "2ee99ddcfd232c177d07a20168653d1c9bad2a363c6a9af7889a16764af6b6ec"
 metafile = true
 
 [[files]]
@@ -77,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
 metafile = true
 
 [[files]]
@@ -106,11 +116,6 @@ hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
 metafile = true
@@ -121,13 +126,18 @@ hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "e645a820d6161aa8d8de056b764d6c9ff037eeb17b191c4a07d388633470b240"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "9dd85e389ac147d8a79eb898d4ffcde01774d405dd75c23345bf2d9963c1b327"
+hash = "b167bd49f6fd1dca1f8df18711b102421c9977748d5fbf71d9ac7ace177dd27f"
 metafile = true
 
 [[files]]
@@ -137,12 +147,17 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "1a288ba9c3f6a2fd9798b1db215b0c24a8d20e50bb8b006972d6e682197fee27"
+hash = "535ad8a4f8b81cdeeb16a5381c995c77bec61cc769377f0c67661b1b5f8b6e9d"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "2fa9115c59e54bda19e2b9d061aa8ccaa33c61b977511e419b83e55c24074af1"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "352d2dd8efb08f8a6213c295a10259de61b4536f2afb1fd985ffcea47a55ec8b"
+hash = "6696af9aaf787643fe5c258a3fa982c65e30bd1296aaf1be2218276a8f43fec3"
 metafile = true
 
 [[files]]
@@ -152,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
 metafile = true
 
 [[files]]
@@ -177,9 +192,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
+hash = "9ab6f2e1d12d17bc50501269efe65a415b115d56b6096b6c9eb136f8de6fb885"
 metafile = true
-
-[[files]]
-file = "test.diff"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
