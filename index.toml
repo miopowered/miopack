@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6b76641118d0d86d838f5eb45f333d636e12e930598b857973e4b57b7a374e9b"
+hash = "56c08a19b9257a481269b77cd630c7396a4ce471f0a4f434df41a49a0623a95a"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
+hash = "8549f8fdb7d2eb89173efd1f03d750e15d1d984c215d075e83ba59a8e115b5b9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "f0be89b1a9fa284dc986982a3b38939f05953ff42e17fd99eeb6e71c708ecc85"
+hash = "e4559bc9b01fdbb58a709ec6c7c70317a39eab36bbac9cb1f84e0d4e159a2031"
 metafile = true
 
 [[files]]
@@ -82,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8b204c352fbc477a8591ca32376b004fdabcfacb12b570a7a1826cabd550bb93"
+hash = "6585633505c5368a6d1b80f153a983eac5570eca3a9d6522e5bf3cc4ed9a6e21"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
+hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
+hash = "1127e53daa00cc93cc47e9226012c7121e9f44e83bc269b64699e8ac4894957c"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "6696af9aaf787643fe5c258a3fa982c65e30bd1296aaf1be2218276a8f43fec3"
+hash = "dc5a95fb8a4775576c8c2d87f534ccb9b88be856bd54bbb67f47c6322af8e1ff"
 metafile = true
 
 [[files]]
@@ -181,16 +181,11 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/tabby.pw.toml"
-hash = "adc8ff0503ab715449e9b7feeab1b6f910e022ae633f5f9383825b47c9fc249c"
-metafile = true
-
-[[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "09029298a9cb7050bb22a8b6b296d05785fcff4d4fd0e3d6d5d3931a25acb4f5"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2ead87a33afe56ace8c2f9d64719bbebf623f6debbef87e4d3a6c5a5adbd51b4"
+hash = "bd8b90a79f53542a2421bce844e0e7a01907910146d71d9aac72bf449f107437"
 metafile = true
